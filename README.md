@@ -21,6 +21,17 @@ I care less about adding AI to a product for its own sake and more about whether
 
 ## Selected work
 
+### n8n AI LinkedIn Personal Brand Engine
+An AI-assisted content workflow covering research, content generation, branded visuals, publishing, and persistent content history.
+
+[Workflow template and documentation](https://github.com/srfbaysal-pixel/n8n-ai-linkedin-personal-brand-engine)
+
+### BaysSystems Customer Acquisition
+An internal email acquisition system with human review, a delivery queue, reply handling, and duplicate protection. Controlled development checks have been reported; the campaign remains disabled and real AI quality validation is pending.
+
+[Technical case study and current status](case-studies/bayssystems-customer-acquisition.md)
+
+
 ### MapleMarket
 A complete marketplace platform built around real buyer and seller workflows.
 
@@ -36,10 +47,10 @@ A collection of production-oriented frontend products built and packaged for com
 
 Current releases include:
 
-- Nova AI SaaS Landing Kit
-- Nova Chat UI Kit
-- Nova AI Ops Dashboard
-- Nova Email Kit
+- [Nova AI SaaS Landing Kit](https://github.com/srfbaysal-pixel/nova-ai-saas-landing-kit)
+- [Nova Chat UI Kit](https://github.com/srfbaysal-pixel/nova-chat-ui-kit)
+- [Nova AI Ops Dashboard](https://github.com/srfbaysal-pixel/nova-ai-ops-dashboard)
+- [Nova Email Kit](https://github.com/srfbaysal-pixel/nova-email-kit)
 
 The series has been useful for developing a repeatable process around product design, documentation, packaging, verification, and release.
 
